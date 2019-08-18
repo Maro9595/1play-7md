@@ -1,6 +1,6 @@
-owner=604891369105915907
+owner=570753495481974797
 prefix=1
 game=1play
 stayinchannel=true
 songinstatus=ture
-token=NjEyMTIxNDU5MzM0MDUzODk3.XVd8AA.8jbyCo0BVVgV6toNvmXbFoJZ4tA 
+token=NjEyNTYxNzU5MTY5MTUxMDE5.XVkKng.xelklMQm_TaUDTHYgXZPNs6NTjE

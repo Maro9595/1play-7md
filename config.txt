@@ -2,5 +2,5 @@ owner=570753495481974797
 prefix=1
 game=1play
 stayinchannel=true
-songinstatus=false
+songinstatus=ture
 token=NjEyNTYxNzU5MTY5MTUxMDE5.XVkKng.xelklMQm_TaUDTHYgXZPNs6NTjE
